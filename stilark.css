@@ -1,0 +1,26 @@
+#lang1 {
+text-align: center;
+	color: yellow;
+}
+
+#lang2 {
+text-align: center;
+	color: orange;
+}
+#lang3 {
+text-align: center;
+	color: red;
+}
+#lang4 {
+text-align: center;
+	color: teal;
+}
+#lang5 {
+text-align: center;
+	color: pink;
+}
+
+
+.noliststyletype {
+	list-style-type: none;
+}
