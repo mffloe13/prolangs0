@@ -1,0 +1,45 @@
+Kontrollspørsmål
+
+0) Les introduksjon til JavaScript på http://w3schools.com/js/js_intro.asp og svar på følgende
+spørsmål, ­ hva kan JavaScript brukes til?
+
+	- Javascript i websider kan brukes til å lage dynamiske funksjoner slik at man slipper 
+	  å måtte laste inn hele nettsiden på nytt
+	- Laste inn innhold i et dokument uten å laste det hele inn på nytt.
+
+1) Les minst de to gitte linkene og forklar med dine egne ord forskjell på CSS id og class
+elementer
+http://www.tizag.com/cssT/cssid.php
+http://css­tricks.com/the­difference­between­id­and­class/
+
+	- Forskjellen er at man bruker ID om det skal brukes 1 gang per side, og bruke classes 
+	  om det er noe som blir gjentatt flere ganger på samme siden. 
+
+
+2) Vurder og sammenlign brukbarhet til versjoner i deloppgave 0 og deloppgave 1 av designet
+for presentasjon av en liste (ta utgangspunkt at listen er mye lengre enn vist i skjermbildene,
+over 100 elementer).
+
+	- 
+
+3) Med hvilken HTML teknikk og designløsning løser Wikipedia
+(http://en.wikipedia.org/wiki/List_of_programming_languages) problemstilling med en lang liste
+av programmeringsspråk?
+
+	- class elementer, designmessige er det delt inn i "bokser" til hver forbokstav, man
+  	  kan velge å se dem enten i alfabetisk, kronologisk, kategorisk eller etter genereasjon. 
+
+4) Ved å søke på WWW finn ut selv og forklar kort hva som er hovedforskjeller mellom et
+<div> og et <span> element (tagg) i HTML.
+
+	- div brukes til å dekke seksjoner/avsnitt av et dokument, mens span brukes til å
+	  dekke mindre porsjoner tekst / bilde etc. 
+
+
+5) Hvike brukbarhetsproblemer er det med den siste versjonen av implementeringen i
+deloppgaven 2? Nevn gjerne hvordan man kunne løse problemene. (Tips: overlapp mellom
+forskjellige grafiske elementer og tilfelle hvor man ønsker å selektere det første navnet på
+programmeringsspårket i listen)
+
+	- 
+
